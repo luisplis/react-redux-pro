@@ -1,2 +1,1 @@
-# react-redux-pro
-Aplicación de Gestión de Gastos en Conferencias
+https://github.com/luisplis/conference_event_planner
